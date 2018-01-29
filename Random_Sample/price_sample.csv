@@ -1,0 +1,150 @@
+"","Make","Model","Style","Year","RealPrice","Edmund's Price","KBB","CarGuru"
+"1","AM General","Hummer","4-Passenger Hard Top",2001,9507,NA,NA,NA
+"2","AM General","Hummer","4-Passenger Wgn Enclosed",2000,8296,31124,NA,NA
+"3","AM General","Hummer","4-Passenger Hard Top",2000,7945,30166,NA,"77858"
+"4","Ferrari","430 Scuderia","2dr Convertible Spider",2008,53582,NA,NA,"227157"
+"5","Ferrari","California","2dr Conv",2014,135921,NA,NA,"144551"
+"6","Ferrari","488 GTB","2dr Cpe",2016,245400,NA,NA,"284319"
+"7","Maserati","Levante","S 3.0L",2017,72831,NA,66730,"78165"
+"8","Maserati","Ghibli","4dr Sdn S Q4",2016,55211,NA,50111,"53336"
+"9","Maserati","Quattroporte","GTS GranLusso 3.8L",2017,130950,NA,71992,NA
+"10","Plymouth","Voyager","4dr Grand Base 119"" WB",1999,1752,1469,1871,NA
+"11","Plymouth","Neon","4dr Sdn Highline",2000,1173,1299,1430,NA
+"12","Plymouth","Voyager","3dr Grand Base 119"" WB",1997,1195,1330,1866,NA
+"13","Saab","42983","4dr Wgn Linear",2004,4920,NA,3381,NA
+"14","Saab","42983","4dr Sdn Aero",2004,6029,NA,3397,NA
+"15","Saab","42981","4dr Sport Sdn Aero",2005,5614,NA,2765,NA
+"16","Alfa Romeo","4C","Coupe",2017,55900,NA,NA,NA
+"17","Alfa Romeo","4C","2dr Conv Spider",2015,37640,50079,NA,"53349"
+"18","Alfa Romeo","Giulia","AWD",2017,35996,34183,NA,NA
+"19","Aston Martin","DBS","2dr Cpe",2008,64601,NA,NA,"117342"
+"20","Aston Martin","DB7","2dr Cpe GTA Auto",2003,21418,NA,NA,NA
+"21","Aston Martin","Rapide S","4dr Sdn Auto",2016,175371,NA,NA,"134166"
+"22","Bentley","Continental","2dr Cpe GT",2004,22687,NA,NA,"35252"
+"23","Bentley","Continental Flying Spur","4dr Sdn",2008,42161,NA,NA,"57385"
+"24","Bentley","Bentayga","W12 AWD",2017,206190,NA,NA,NA
+"25","Jaguar","XJ","4dr Sdn XJ8",2004,7488,6073,5507,"7404"
+"26","Jaguar","F-TYPE","2dr Conv Auto S AWD",2016,61706,59184,57171,"62060"
+"27","Jaguar","S-TYPE","4dr Sdn V8",2004,8286,4890,6113,NA
+"28","Porsche","911 Carrera","2dr Carrera Turbo Tiptronic",2003,16310,38405,53673,"26794"
+"29","Porsche","Cayenne","AWD 4dr Tiptronic",2013,27912,29159,37128,"38642"
+"30","Porsche","Cayman","2dr Cpe GTS",2015,45920,50900,69631,"68934"
+"31","HUMMER","H2","4dr Wgn 4WD SUT",2006,22641,18563,30544,"25310"
+"32","HUMMER","H2","4dr Wgn",2004,7471,12057,21526,"19805"
+"33","HUMMER","H3","4WD 4dr SUV",2007,12642,10732,13231,"14149"
+"34","MINI","Cooper","2dr S",2016,25968,17992,NA,"18636"
+"35","MINI","Cooper Hardtop","2dr Cpe",2007,6060,NA,NA,"17728"
+"36","MINI","Cooper","2dr Convertible",2006,6706,4416,NA,"6198"
+"37","Land Rover","Range Rover","V8 Supercharged Autobiography LWB",2017,131396,157196,NA,"124287"
+"38","Land Rover","Range Rover Sport","V6 Supercharged SE",2017,59085,64369,NA,NA
+"39","Land Rover","Range Rover Evoque","2dr Cpe SE Premium",2016,35639,34584,NA,NA
+"40","FIAT","500X","Trekking AWD",2017,20136,19467,NA,NA
+"41","FIAT","500L","5dr HB Trekking",2014,10674,10066,10142,"9812"
+"42","FIAT","500X","AWD 4dr Trekking",2016,18583,14102,12569,"14163"
+"43","INFINITI","QX56","4dr AWD",2004,9391,8339,10313,"10306"
+"44","INFINITI","I35","4dr Sdn Luxury",2003,4853,3934,3096,NA
+"45","INFINITI","G35","4dr Sport RWD",2008,10621,8655,11506,"11548"
+"46","Isuzu","Rodeo","4dr LSE 3.2L Auto",2001,3040,2512,1622,NA
+"47","Isuzu","i-370","2WD Crew Cab LS",2007,5141,NA,11943,"5620"
+"48","Isuzu","Ascender","4dr 2WD EXT LS",2005,4883,4829,2631,"3268"
+"49","Lexus","RX 350","FWD 4dr",2008,12230,11797,13591,"11954"
+"50","Lexus","IS 250","4dr Sport Sdn Auto RWD",2012,16280,16935,19036,"17650"
+"51","Lexus","RX 350","AWD 4dr F Sport",2015,32565,32576,33701,"35319"
+"52","Mercedes-Benz","C-Class","4dr Sdn 3.5L Sport RWD",2007,8377,6817,5274,"4526"
+"53","Mercedes-Benz","G-Class","4MATIC 4dr AMG G65",2016,151005,150553,162580,"121648"
+"54","Mercedes-Benz","C-Class","4dr Sdn 3.0L Luxury 4MATIC",2008,10639,8394,10727,"9857"
+"55","Oldsmobile","Intrigue","4dr Sdn GL",1999,1904,1388,1238,NA
+"56","Oldsmobile","Silhouette","4dr Mobility GLS",2002,3715,1940,2535,NA
+"57","Oldsmobile","Alero","4dr Sdn GLS",1999,1722,1334,2143,NA
+"58","Volvo","S60","4dr Sdn 2.5L Turbo AWD",2003,3853,2919,2546,NA
+"59","Volvo","V50","2.5L Turbo AWD Auto w/Sunroof",2006,5257,6379,6625,"6220"
+"60","Volvo","XC90","4dr 2.5L Turbo w/Sunroof",2004,6059,3780,5348,"4945"
+"61","Scion","xB","5dr Wgn Man",2014,11997,10791,10848,"12414"
+"62","Scion","xB","5dr Wgn Man",2015,11108,12230,13067,"14186"
+"63","Scion","tC","3dr HB Manual",2006,5058,4207,4232,"5251"
+"64","Suzuki","Forenza","4dr Sdn Man w/ABS",2006,2074,2359,1443,NA
+"65","Suzuki","Forenza","4dr Sdn Man Premium w/ABS/Sunroof",2006,3796,2849,1774,NA
+"66","Suzuki","Aerio","4dr Wgn SX 2.0L Auto AWD w/ABS",2003,1672,2012,1723,NA
+"67","Saturn","SL","SL1 Manual",1999,928,1250,1579,NA
+"68","Saturn","SL","SL Manual",1998,770,1198,1545,NA
+"69","Saturn","Outlook","AWD 4dr XR",2007,7055,6978,7037,"8650"
+"70","Ram","2500","2WD Crew Cab 169"" Big Horn",2015,34451,28328,36645,"30132"
+"71","Ram","1500","2WD Crew Cab 140.5"" SLT",2016,20515,25092,25455,"28524"
+"72","Ram","1500","Lone Star 4x4 Regular Cab 6'4"" Box",2017,32126,22473,29166,"30036"
+"73","Acura","ILX","4dr Sdn 2.0L Premium Pkg",2015,19043,18314,16992,"17658"
+"74","Acura","TL","4dr Sdn 3.2L w/Navigation System",2000,2595,2544,2454,NA
+"75","Acura","MDX","FWD 4dr w/AcuraWatch Plus",2016,32451,36023,38657,"38387"
+"76","Lincoln","Navigator","2WD Premium",2003,7103,5158,4778,NA
+"77","Lincoln","MKZ","4dr Sdn FWD",2014,18352,16882,17492,"18328"
+"78","Lincoln","MKZ","4dr Sdn Hybrid FWD",2012,12184,12124,11909,"12842"
+"79","Audi","A3","2dr Cabriolet quattro 2.0T Premium Plus",2015,24457,28049,28714,"29128"
+"80","Audi","A4","4dr Sdn Auto quattro 2.0T Prestige",2013,17335,21422,24708,"27311"
+"81","Audi","A3","2dr Cabriolet quattro 2.0T Prestige",2016,25169,34227,29053,"31518"
+"82","Mercury","Mariner","FWD 4dr Hybrid",2010,9619,7739,9253,"9196"
+"83","Mercury","Grand Marquis","4dr Sdn GS",1999,2789,1437,1543,NA
+"84","Mercury","Mystique","4dr Sdn GS",2000,1507,1392,1279,NA
+"85","Subaru","Forester","AWD 4dr H4 AT X L.L. Bean Ed",2007,8962,6622,9631,"7995"
+"86","Subaru","Tribeca","4dr 3.6R Limited w/Pwr MR Pkg & Nav System & RSES",2010,16928,12243,15584,"12898"
+"87","Subaru","Forester","4dr Auto X w/Premium Pkg PZEV",2008,8335,6598,7951,"8852"
+"88","Mitsubishi","Endeavor","4dr Limited",2004,3877,3731,3558,"4698"
+"89","Mitsubishi","Eclipse","3dr Cpe GS 2.4L Manual",2002,1775,2133,1394,NA
+"90","Mitsubishi","Galant","4dr Sdn ES 2.4L Auto",2002,2194,1896,1213,NA
+"91","Cadillac","SRX","4dr V8 SUV",2004,7048,5132,4548,"5931"
+"92","Cadillac","Escalade","2WD 4dr",2009,24232,20643,28917,"21872"
+"93","Cadillac","ATS","4dr Sdn 2.5L Luxury RWD",2013,16762,15064,17188,"17234"
+"94","Mazda","CX-9","FWD 4dr Touring",2012,14037,13429,15458,"14608"
+"95","Mazda","Mazda3","4dr Sdn Man i Touring",2012,8941,8326,9168,"9176"
+"96","Mazda","CX-7","AWD 4dr Grand Touring",2008,8814,5951,5677,"7051"
+"97","BMW","3 Series","4dr Sdn 328d RWD",2014,21201,21092,22756,"22665"
+"98","BMW","X5","X5 4dr AWD 4.4i",2006,9888,7669,5699,"8016"
+"99","BMW","4 Series","2dr Conv 428i xDrive AWD",2015,29894,33343,36040,"35985"
+"100","Chrysler","Concorde","4dr Sdn LXi",2001,2192,1639,1184,NA
+"101","Chrysler","Town & Country SWB","4dr",2006,3398,2787,3040,NA
+"102","Chrysler","PT Cruiser","4dr Wgn",2005,1891,1790,2071,NA
+"103","Volkswagen","Passat","4dr Man Turbo FWD",2008,6700,4955,4376,"5932"
+"104","Volkswagen","CC","4dr Sdn DSG Sport",2011,12651,8637,8011,"9385"
+"105","Volkswagen","Jetta","4dr Man GLI Autobahn w/Nav PZEV",2014,11301,11097,15961,"15987"
+"106","Pontiac","Grand Prix","4dr Sdn GT",2001,2318,1852,1764,NA
+"107","Pontiac","Grand Prix","2dr Cpe GTP",2001,2668,2212,1702,NA
+"108","Pontiac","Vibe","4dr HB",2008,7753,4332,5499,"6149"
+"109","Buick","Verano","4dr Sdn Premium Turbo Group",2016,17068,16600,16700,"16306"
+"110","Buick","Regal","4dr Sdn LS",2001,3164,1554,1967,NA
+"111","Buick","LaCrosse","4dr Sdn CXL",2006,6638,3755,5381,"5473"
+"112","Kia","Rondo","4dr I4 Auto LX Base",2007,5846,3530,3170,"4661"
+"113","Kia","Sorento","4dr EX Auto 4WD",2006,6006,4886,5150,NA
+"114","Kia","Sorento","L FWD",2017,21442,18162,16815,"22,583 "
+"115","Hyundai","Accent","4dr Sdn GL Manual",2000,1488,1389,1301,NA
+"116","Hyundai","Santa Fe","4dr 2WD Manual 2.4L I4",2004,4116,2546,1465,NA
+"117","Hyundai","Santa Fe","FWD 4dr Auto Limited",2008,8530,8202,8987,"8538"
+"118","Jeep","Grand Cherokee","4dr Limited 4WD",2004,3857,4150,4899,"5627"
+"119","Jeep","Patriot","4WD 4dr Sport",2010,8148,6578,7027,"8995"
+"120","Jeep","Grand Cherokee","4dr Overland 4WD",2002,3098,3840,3678,NA
+"121","GMC","Terrain","AWD 4dr SLT-2",2012,12566,16282,14851,"16636"
+"122","GMC","Envoy XL","4dr 2WD SLE",2003,4604,3511,3506,NA
+"123","GMC","Sierra 1500","2WD Ext Cab 157.5"" SLT",2009,17830,17464,22214,"17463"
+"124","Honda","Odyssey","5dr EX-L w/DVD/Leather",2002,5572,3184,2594,NA
+"125","Honda","Accord","4dr Sdn LX Auto",1998,2398,1331,1085,NA
+"126","Honda","Accord","2dr I4 Auto LX-S PZEV",2010,10399,8657,9220,"9879"
+"127","Dodge","Ram 3500","4dr Quad Cab 160.5"" WB DRW SLT",2003,3554,7840,27277,"16980"
+"128","Dodge","Magnum","4dr Wgn SXT AWD",2006,5964,4282,5617,"6356"
+"129","Dodge","Ram 1500","4dr Quad Cab 139"" WB 4WD",1998,1463,NA,3478,NA
+"130","Nissan","Altima","4dr Sdn V6 Man 3.5 SE",2009,7534,6725,7703,"8754"
+"131","Nissan","Pathfinder","2WD 4dr S",2013,16875,16121,15238,"16727"
+"132","Nissan","JUKE","5dr Wgn CVT SL AWD",2013,12249,14033,13894,"14390"
+"133","Toyota","Prius","5dr HB",2006,7014,4047,5494,"5944"
+"134","Toyota","Prius v","5dr Wgn Two",2014,15782,16756,16290,"17177"
+"135","Toyota","Camry","4dr Sdn",2011,12441,8569,8316,"10166"
+"136","Chevrolet","Traverse","AWD 4dr LTZ",2009,9248,11361,14196,"13430"
+"137","Chevrolet","Malibu","4dr Sdn LS w/1LS",2010,7803,6437,7459,"7968"
+"138","Chevrolet","Silverado 2500","HD Reg Cab 133.0"" WB C6P",1999,4938,1972,2799,NA
+"139","Ford","Crown Victoria","4dr Sdn",1999,1380,1456,1319,NA
+"140","Ford","Edge","4dr SE FWD",2016,24586,20347,17889,"21377"
+"141","Ford","Ranger","Reg Cab 113.9"" WB XLT 4WD",1997,4225,1791,2076,"4140"
+"142","Daewoo","Leganza","4dr Sdn SE",2002,1730,1532,1484,NA
+"143","Freightliner","Sprinter Crews","4WD 2500 144""",2015,22543,NA,29851,NA
+"144","Geo","Metro","2dr HB",1997,552,1241,1412,NA
+"145","Lamborghini","Aventador","2dr Conv LP 750-4 Superveloce",2016,413934,NA,NA,"349473"
+"146","Lotus","Elise","2dr Conv",2010,14875,NA,NA,NA
+"147","McLaren","675LT","2dr Conv Spider",2016,369702,NA,NA,"177201"
+"148","smart","fortwo","2dr Cpe Pure",2008,4481,2442,2705,NA
+"149","Tesla","Model X","AWD 4dr 90D",2016,94455,NA,98161,"82806"
